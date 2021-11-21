@@ -1,0 +1,5 @@
+Catatan:
+Untuk produk dan detail produk sebenarnya jika kita klik Komputer maka kita akan diarahkan kepada halaman detail komputer,
+jika laptop maka halaman detail laptop dan seterusnya.
+Namun disini dalam progress kami satu halaman masih untuk semua jadi misal kita klik komputer, laptop dan sebagainya maka kita-
+akan diarahkan kepada satu halaman yang sama.
